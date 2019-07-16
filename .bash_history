@@ -53,3 +53,66 @@ cd /tmp
 ls -al
 ls
 cat logfile.0
+git status
+git add .
+git commit -a -m "commiting everything"
+git status
+git branch
+cat >> myname
+git checkout b1
+git checkout master
+git add myname
+git checkout b1
+ls
+cat >>anukriti
+git status
+git checkout b1
+git branch
+git checkout master
+git stash
+git stash list
+git show stash@{0}
+git checkout branch
+git checout master
+git stash pop stash@{0}
+git stash
+git status
+git checkout master
+git stash apply stash@{0}
+git stash list
+git checkout b1
+ls
+rm edureka-class-demo/
+rm -r edureka-class-demo/
+rm anukriti 
+git ls
+ls
+git branch b1
+git stash list
+git stash -p
+git log --oneline
+git reset --hard 8a3ee3c
+git ls
+ls
+git checkout master
+git checkout b1
+git checkout master
+vi commitfile
+git add .
+commit -am "another commit"
+git log -oneline
+git log --oneline
+git checlout b1
+git checkout b1
+git branch b2
+git checkout b2
+ls
+cat >> ewfile
+git add .
+git commit -am "newfile"
+git log master
+git log --oneline master
+git log --oneline b2
+git rebase master
+git checkout master
+ls
